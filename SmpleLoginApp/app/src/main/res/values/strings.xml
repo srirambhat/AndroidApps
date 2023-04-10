@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmpleLoginApp</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="attempts">Attempts</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="hello_world">Hello World</string>
+</resources>
